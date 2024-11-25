@@ -28,6 +28,15 @@ sections:
         style: primary
         elementId: ''
         type: Link
+      - type: Link
+        label: LinkedIn
+        altText: LinkedIn
+        url: '/https://www.linkedin.com/in/ahmed-muhammad-48083022b/'
+        showIcon: true
+        icon: linkedin
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       url: /images/WhatsApp Image 2024-11-25 at 4.53.40 PM.jpeg
       altText: Unblock your team boost your time to production preview
