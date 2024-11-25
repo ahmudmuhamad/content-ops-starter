@@ -37,6 +37,7 @@ sections:
         self:
           borderRadius: medium
           borderStyle: double
+          borderWidth: 4
     badge:
       label: aHMED mUHAMMAD aHMED
       color: text-primary
