@@ -35,7 +35,7 @@ sections:
       type: ImageBlock
       styles:
         self:
-          borderRadius: medium
+          borderRadius: xx-small
           borderStyle: none
           borderWidth: 8
     badge:
