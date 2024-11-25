@@ -10,15 +10,6 @@ sections:
     subtitle: Data Scientist - Data Analyst
     text: ''
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - type: Link
         label: LinkedIn
         altText: LinkedIn
