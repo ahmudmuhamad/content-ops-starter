@@ -39,7 +39,7 @@ sections:
           borderStyle: none
           borderWidth: 8
     badge:
-      label: aHMED mUHAMMAD aHMED
+      label: Ahmed Muhammad Ahmed
       color: text-primary
       type: Badge
     elementId: ''
