@@ -35,7 +35,7 @@ sections:
       type: ImageBlock
       styles:
         self:
-          borderRadius: x-large
+          borderRadius: medium
     badge:
       label: aHMED mUHAMMAD aHMED
       color: text-primary
