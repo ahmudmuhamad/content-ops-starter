@@ -29,7 +29,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/WhatsApp Image 2024-02-25 at 4.10.34 PM.jpeg
+      url: /images/WhatsApp Image 2024-11-25 at 4.53.40 PM.jpeg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
