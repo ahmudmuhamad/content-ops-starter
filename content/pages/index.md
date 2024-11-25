@@ -37,6 +37,15 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Link
+        label: GitHub
+        altText: GitHub
+        url: '/https://github.com/ahmudmuhamad'
+        showIcon: true
+        icon: github
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       url: /images/WhatsApp Image 2024-11-25 at 4.53.40 PM.jpeg
       altText: Unblock your team boost your time to production preview
