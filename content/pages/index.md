@@ -20,6 +20,15 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
+        label: Send email
+        altText: Play
+        url: /ahmedmohmed323@gmail.com
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Link
         label: GitHub
         altText: GitHub
         url: '/https://github.com/ahmudmuhamad'
