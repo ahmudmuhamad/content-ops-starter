@@ -65,7 +65,7 @@ sections:
   - type: FeaturedItemsSection
     subtitle: ''
     items:
-      - title: Objective
+      - title: ''
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
