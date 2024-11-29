@@ -14,7 +14,7 @@ sections:
         label: Send email
         altText: Play
         url: /ahmedmohmed323@gmail.com
-        showIcon: true
+        showIcon: false
         icon: mail
         iconPosition: right
         style: secondary
