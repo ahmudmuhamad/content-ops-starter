@@ -17,7 +17,7 @@ sections:
         showIcon: true
         icon: mail
         iconPosition: left
-        style: secondary
+        style: primary
         elementId: ''
       - type: Link
         label: LinkedIn
