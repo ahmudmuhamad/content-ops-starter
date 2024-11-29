@@ -63,7 +63,7 @@ sections:
           - pb-16
           - pr-16
   - type: FeaturedItemsSection
-    subtitle: About Me
+    subtitle: ''
     items:
       - title: Objective
         subtitle: ''
