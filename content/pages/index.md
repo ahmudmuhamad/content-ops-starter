@@ -16,7 +16,7 @@ sections:
         url: /ahmedmohmed323@gmail.com
         showIcon: true
         icon: mail
-        iconPosition: right
+        iconPosition: left
         style: secondary
         elementId: ''
       - type: Link
