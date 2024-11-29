@@ -67,10 +67,73 @@ sections:
     items:
       - title: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Hello! My name is **Ahmed Muhammad Ahmed**, and I am passionate about
+          **Data Analytics**. I graduated from **Nile University** with a
+          bachelor's degree in Computer Science.
+
+
+          I have had the opportunity to enhance my skills through two
+          internships as a **Data Scientist**—first at **PlacementtDOST** and
+          then at **The Sparks Foundation**. These experiences allowed me to
+          apply my knowledge in real-world scenarios and work with diverse
+          datasets.
+
+
+
+
+          ### Technical skills:
+
+
+          *   **Python**: Proficient in data manipulation and analysis.
+
+
+          *   **SQL**: Experienced in querying and managing databases.
+
+
+          *   **Power BI**: Skilled in creating data visualizations and
+          dashboards.
+
+
+          *   **Statistical Analysis**: Strong foundation in statistical methods
+          for data interpretation.
+
+
+          *   **Machine Learning**: Knowledgeable in building and deploying
+          machine learning models.
+
+
+          *   **Excel**
+
+
+          ***
+
+
+          ### Soft Skills: 
+
+
+          *   *   *   **Effective Communication**: Skill in conveying technical
+          information clearly to diverse audiences.
+
+                      **Collaboration**: Experience working in teams to achieve common goals and drive projects forward.
+
+                      **Adaptability**: Quick to learn new tools and techniques in a fast-paced environment.
+
+
+          ### Passions and Interests
+
+
+          I have a keen interest in Data Analytics and Machine Learning,
+          constantly seeking to deepen my understanding of these fields and
+          their applications in solving real-world problems.
+
+
+          ### Goals and Aspirations
+
+
+          I wish to join a dynamic team where I can further improve my skills
+          and contribute to impactful projects in the realm of data analytics
+          and machine learning.
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
