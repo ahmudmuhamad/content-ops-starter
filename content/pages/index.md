@@ -80,7 +80,7 @@ sections:
           datasets.
 
 
-          ### Technical skills:
+          #### Technical skills:
 
 
           *   **Python**: Proficient in data manipulation and analysis.
@@ -104,8 +104,7 @@ sections:
           *   **Excel**
 
 
-
-          ### Passions and Interests
+          #### Passions and Interests
 
 
           I have a keen interest in Data Analytics and Machine Learning,
@@ -113,7 +112,7 @@ sections:
           their applications in solving real-world problems.
 
 
-          ### Goals and Aspirations
+          #### Goals and Aspirations
 
 
           I wish to join a dynamic team where I can further improve my skills
