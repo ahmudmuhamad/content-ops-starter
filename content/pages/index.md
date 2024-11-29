@@ -72,7 +72,7 @@ sections:
       type: TitleBlock
     subtitle: Objective
     items:
-      - title: 20x
+      - title: Objective
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
