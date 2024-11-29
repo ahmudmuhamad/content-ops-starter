@@ -80,8 +80,6 @@ sections:
           datasets.
 
 
-
-
           ### Technical skills:
 
 
@@ -105,19 +103,6 @@ sections:
 
           *   **Excel**
 
-
-          ***
-
-
-          ### Soft Skills: 
-
-
-          *   *   *   **Effective Communication**: Skill in conveying technical
-          information clearly to diverse audiences.
-
-                      **Collaboration**: Experience working in teams to achieve common goals and drive projects forward.
-
-                      **Adaptability**: Quick to learn new tools and techniques in a fast-paced environment.
 
 
           ### Passions and Interests
