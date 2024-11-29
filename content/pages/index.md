@@ -63,7 +63,7 @@ sections:
           - pb-16
           - pr-16
   - type: FeaturedItemsSection
-    subtitle: Objective
+    subtitle: About Me
     items:
       - title: Objective
         subtitle: The Job Stuff
