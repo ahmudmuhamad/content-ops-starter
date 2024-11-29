@@ -64,7 +64,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Education
+      text: About Me
       color: text-dark
       styles:
         self:
