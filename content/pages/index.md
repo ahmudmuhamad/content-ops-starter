@@ -11,21 +11,21 @@ sections:
     text: ''
     actions:
       - type: Link
-        label: LinkedIn
-        altText: LinkedIn
-        url: '/https://www.linkedin.com/in/ahmed-muhammad-48083022b/'
-        showIcon: true
-        icon: linkedin
-        iconPosition: left
-        style: secondary
-        elementId: ''
-      - type: Link
         label: Send email
         altText: Play
         url: /ahmedmohmed323@gmail.com
         showIcon: true
         icon: mail
         iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Link
+        label: LinkedIn
+        altText: LinkedIn
+        url: '/https://www.linkedin.com/in/ahmed-muhammad-48083022b/'
+        showIcon: true
+        icon: linkedin
+        iconPosition: left
         style: secondary
         elementId: ''
       - type: Link
