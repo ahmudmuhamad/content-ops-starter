@@ -63,13 +63,6 @@ sections:
           - pb-16
           - pr-16
   - type: FeaturedItemsSection
-    title:
-      text: About Me
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
     subtitle: Objective
     items:
       - title: Objective
