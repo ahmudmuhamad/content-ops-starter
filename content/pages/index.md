@@ -65,7 +65,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: Education
-      color: text-light
+      color: text-dark
       styles:
         self:
           textAlign: center
