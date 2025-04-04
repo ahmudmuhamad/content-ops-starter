@@ -49,6 +49,4 @@ Here are a few suggestions on what to do next if you're new to Netlify visual ed
 - Learn [Netlify visual editor overview](https://docs.netlify.com/visual-editor/visual-editing/)
 - Check [Netlify visual editor reference documentation](https://visual-editor-reference.netlify.com/)
 
-## Support
 
-If you get stuck along the way, get help in our [support forums](https://answers.netlify.com/).
